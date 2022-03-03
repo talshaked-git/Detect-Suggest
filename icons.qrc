@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>find-90px.png</file>
+    <file>find-140px.png</file>
+    <file>new_patient-185px.png</file>
+    <file>med_record-160px.png</file>
+    <file>record-160px.png</file>
+    <file>icon_test.png</file>
+  </qresource>
+</RCC>
